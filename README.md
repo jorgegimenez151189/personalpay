@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
-</p>
-
-<h3 align="center">Desafío personal pay</h3>
-
+<h1 align="center"> Desafío personal pay </h1>
 ---
 
 <p align="center"> Proyecto que toma los datos de la localización por medio de la api ip-api.co y los datos del clima por medio de la api https://openweathermap.org/, los enviroment se encuentran en .env.example donde podrán encontrar la api key de ip-api.co y openweathermap
@@ -17,6 +12,14 @@
 ## 📝 NODE MODULE
 
 instalar modulos "npm install"
+
+## 📝 CIUDADES DISPONIBLES
+
+- montreal
+- madrid
+- paris
+- varsovia
+- londres
 
 ## 📝 ENDPOINTS
 
