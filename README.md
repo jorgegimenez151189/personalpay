@@ -14,6 +14,10 @@
 
 3001
 
+## 📝 NODE MODULE
+
+instalar modulos "npm install"
+
 ## 📝 ENDPOINTS
 
 - [GET /v1](#ruta)
