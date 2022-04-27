@@ -1,0 +1,29 @@
+{
+  "name": "jorgegimenez",
+  "version": "1.0.0",
+  "description": "desafio personal pay",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "prod": "cross-env node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgegimenez151189"
+  },
+  "author": "jorgegimenez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "ipapi.co": "^0.3.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "jest": "^28.0.2",
+    "supertest": "^6.2.3"
+  }
+}
